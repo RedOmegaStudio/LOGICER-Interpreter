@@ -10,7 +10,8 @@
 - pokazuje ukryte wiadomości
 
 ### Kod:
-`~~ Komentarz: Ukrywamy wiadomości, zamykamy konsolę
+`
+~~ Komentarz: Ukrywamy wiadomości, zamykamy konsolę  
 mouth.status += status.hidden_words(hide);
 mouth.status += status.opened_level(close);
 mouth.new_words = "To się nie wypisze";
